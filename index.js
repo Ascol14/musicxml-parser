@@ -41,8 +41,6 @@ class XMLParser {
             })
         });
         
-
-
         return this.json
     }
 
