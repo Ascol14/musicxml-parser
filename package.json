@@ -1,5 +1,5 @@
 {
-  "name": "musicxml-parser",
+  "name": "@debussyjs/musicxml-parser",
   "version": "1.0.0",
   "description": "The DebussyJS musicXML parser",
   "main": "index.js",
